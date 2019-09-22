@@ -172,5 +172,5 @@ labelRiders.grid(row=3, column=1)
 # status = Label(root, text="(c)2019 David Průša, Asociace klubů BMX.", anchor=E)
 # status.pack(side=BOTTOM, fill=X)
 
-root.geometry("550x100+350+250")
+root.geometry("550x150+350+250")
 root.mainloop()
